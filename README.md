@@ -3,9 +3,8 @@
 A responsive and interactive *Student Management System* built with HTML, CSS, and JavaScript. This dashboard allows users to *add, **edit, **delete, **search, and **filter* student records. Data is stored in the browser using *LocalStorage*, making it persistent across sessions.
 
 ## 🚀 Live Preview
-
-> (Optional: Add your GitHub Pages or Netlify link here if hosted)  
-> Example: https://parthi51-barathi.github.io/TS-Student-Dashboard/
+  
+ https://parthi51-barathi.github.io/TS-Student-Dashboard/
 
 ---
 
